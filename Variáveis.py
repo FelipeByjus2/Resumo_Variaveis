@@ -1,4 +1,4 @@
-# AS variáveis servem para armazenar uma informação
+# AS variáveis servem para armazenar uma informação, podendo ser modificadas
 variavel = 'informação'
 
 #Existem tipos de variáveis:
